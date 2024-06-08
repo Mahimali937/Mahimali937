@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I’m Mahim Ali a current sophomore student at Hunter College. I have build a sneaker trading website using HTML, CSS, and Javascript.<br>I also build a role playing game using many data structures such as trees and linked lists in C++.
+Hi I’m Mahim Ali a current junior student at Hunter College. I have build a sneaker trading website using HTML, CSS, and Javascript.<br>I also build a role playing game using many data structures such as trees and linked lists in C++.
 
 
 ## 🌐 Socials:
