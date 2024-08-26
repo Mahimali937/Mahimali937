@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Mahim Ali, a junior Computer Science student at Hunter College, passionate about coding, web development, and software engineering. I’ve built a sneaker trading website using HTML, CSS, and JavaScript, and developed a C++ RPG with advanced data structures.
+Hi, I’m Mahim Ali, a Junior Computer Science student at Hunter College, passionate about coding, web development, and software engineering. I’ve built a sneaker trading website using HTML, CSS, and JavaScript, and developed a C++ RPG with advanced data structures.
 
 
 ## 🌐 Socials:
