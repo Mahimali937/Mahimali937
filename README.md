@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Mahim Ali, a Junior Computer Science student at Hunter College, passionate about coding, web development, and software engineering.
 
+Check out my [coding portfolio!](https://mahimali.vercel.app)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahimali/) 
