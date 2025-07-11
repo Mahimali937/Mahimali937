@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mahim Ali, Senior CS student at Hunter College | Incoming Software Engineer Intern @ Johns Hopkins APL
+- 👋 Hi, I’m **Mahim Ali**, Senior CS student at Hunter College | Incoming Software Engineer Intern @ Johns Hopkins APL
 - 💻 Full-Stack & Systems Developer | React, Django, TypeScript, PostgreSQL, Python
 - 🛠️ Interned at Con Edison, NYC ACS & DSS — built internal tools, automated workflows, and improved infrastructure
 - 🚀 I build scalable, data-driven software that saves time and solves real problems
-- 📊 Projects: FuelUp, GradeMyProfessor, La Liga Zone Fantasy — 1,000+ users, live analytics, real-time data pipelines
+- 📊 Projects: FuelUp, GradeMyProfessor, La Liga Zone Fantasy — **1,000+** users, live analytics, real-time data pipelines
 
 Check out my [coding portfolio!](https://mahimali.vercel.app)
 
