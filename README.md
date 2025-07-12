@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m **Mahim Ali**, Senior CS student at Hunter College | Incoming Software Engineer Intern @ Johns Hopkins APL
+- 👋 Hi, I’m **Mahim Ali**, Senior CS student at Hunter College | Software Engineer Intern @ Johns Hopkins APL
 - 💻 Full-Stack & Systems Developer | React, Django, TypeScript, PostgreSQL, Python
 - 🛠️ Interned at Con Edison, NYC ACS & DSS — built secure CI/CD pipelines, internal tools, and automated workflows
 - 🚀 I build scalable, data-driven software that saves time and solves real problems
