@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m **Mahim Ali**, Senior CS student at Hunter College | Software Engineer Intern @ NineDot Energy
 - 💻 Full-Stack & Backend Developer | Python, TypeScript, React, PostgreSQL, GCP
-- 🛠️ Interned at NineDot Energy, JHU APL, Con Edison, NYC ACS & DSS — Built ETL pipelines, Pub/Sub architectures, and CI/CD pipelines 
+- 🛠️ Interned at NineDot Energy, JHU APL, Con Edison, NYC ACS & DSS — Built ETL pipelines, Pub/Sub architectures, secure CI/CD pipelines, internal tools, and automated workflows 
 - 🚀 I build scalable, data-driven software that saves time and solves real problems
 - 📊 Projects: FuelUp, GradeMyProfessor, La Liga Zone Fantasy — **1,000+** users, live analytics, real-time data pipelines
 
